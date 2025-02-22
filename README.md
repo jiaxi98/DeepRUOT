@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/zhenyiizhang/DeepRUOT/">
-    <img src="figures/logo.svg" alt="Logo" height="150">
+    <img src="figures/logo.png" alt="Logo" height="150">
   </a>
 
 
@@ -24,7 +24,7 @@ Reconstructing dynamics using samples from sparsely time-resolved snapshots is a
 <br />
 <div align="left">
   <a href="https://github.com/zhenyiizhang/DeepRUOT/">
-    <img src="figures/overview.svg" alt="Logo" height="350">
+    <img src="figures/overview.png" alt="Logo" height="350">
   </a>
 
 </div>

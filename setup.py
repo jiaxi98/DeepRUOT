@@ -3,7 +3,6 @@ from setuptools import setup, find_packages
 import os
 assert parse_version(setuptools.__version__)>=parse_version('36.2')
 
-# 读取 README.md 作为长描述
 with open(os.path.join(os.path.dirname(__file__), 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 

@@ -8,15 +8,15 @@ with open(os.path.join(os.path.dirname(__file__), 'README.md'), encoding='utf-8'
     long_description = f.read()
 
 setup(
-    name='DeepRUOT',                        # 包名称
-    version='0.1.0',                        # 初始版本号，可根据后续更新进行修改
-    author='Zhenyi Zhang',                      # 作者姓名
-    author_email='zhenyizhang@stu.pku.edu.cn',  # 作者邮箱
+    name='DeepRUOT',                       
+    version='0.1.0',                       
+    author='Zhenyi Zhang',                      
+    author_email='zhenyizhang@stu.pku.edu.cn', 
     description='DeepRUOT',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/zhenyiizhang/DeepRUOT',  # 你的项目主页或 GitHub 地址
-    packages=find_packages(),               # 自动查找 deepruot 目录下的所有模块
+    url='https://github.com/zhenyiizhang/DeepRUOT',  
+    packages=find_packages(),              
     include_package_data=True,
     install_requires=[
         "torch>=1.11.0",
@@ -36,17 +36,14 @@ setup(
         "scanpy",
     ],
     classifiers=[
-        'Development Status :: 3 - Alpha',      # 开发状态，根据实际情况修改
+        'Development Status :: 3 - Alpha',      
         'Intended Audience :: Developers',
         'Natural Language :: Chinese',
         'Programming Language :: Python :: 3',
-        'License :: OSI Approved :: MIT License',  # 如果你选择 MIT 许可证
+        'License :: OSI Approved :: MIT License',  
         'Operating System :: OS Independent',
     ],
-    python_requires='>=3.6',  # 支持的最低 Python 版本
+    python_requires='>=3.6',  
     entry_points={
-        # 如果希望在命令行安装后能调用脚本，可配置 console_scripts
-        # 示例：
-        # 'console_scripts': ['deepruot=deepruot.cli:main'],
     },
 )

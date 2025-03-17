@@ -430,12 +430,6 @@ def train_all(
                     loss2=0
                     loss2=torch.mean((torch.exp(s2*2/sigmaa**2)-density_values)**2)
   
-                    if loss2 < 1e-6:
-                        lambda_initial=0
-                        loss2=0
-                    if mean_pppinn_loss < 1e-6:
-                        lambda_pinn=0
-                        mean_pppinn_loss=0
                     print('pinloss')
                     print(mean_pppinn_loss)
                     

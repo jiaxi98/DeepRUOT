@@ -93,7 +93,7 @@ url={https://openreview.net/forum?id=gQlxd3Mtru}
 
 ### Want to know more?
 
-Check out our latest review on modeling cellular dynamics! We explore how scRNA-seq, spatial transcriptomics, and advanced computational tools like Markov chains & Schrödinger bridges reveal spatiotemporal cell trajectories and fate decisions!
+Check out our latest review on modeling cellular dynamics! We explore how scRNA-seq, spatial transcriptomics, and advanced computational tools like Markov chains & generative models reveal spatiotemporal cell trajectories and fate decisions!
 
 [https://arxiv.org/abs/2503.11347](https://arxiv.org/abs/2503.11347)
 

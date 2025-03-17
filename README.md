@@ -91,6 +91,13 @@ url={https://openreview.net/forum?id=gQlxd3Mtru}
 ```
 </details>
 
+### Want to know more?
+
+Check out our latest review on modeling cellular dynamics! We explore how scRNA-seq, spatial transcriptomics, and advanced computational tools like Markov chains & Schrödinger bridges reveal spatiotemporal cell trajectories and fate decisions!
+
+[https://arxiv.org/abs/2503.11347](https://arxiv.org/abs/2503.11347)
+
+
 ## Acknowledgments
 
 We thank the following projects for their great work to make our code possible: [MIOFlow](https://github.com/KrishnaswamyLab/MIOFlow/tree/main), [TorchCFM](https://github.com/atong01/conditional-flow-matching). We are also grateful for the exciting work in trajectory inference, which has greatly inspired and influenced our work.

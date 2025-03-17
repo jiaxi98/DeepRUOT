@@ -104,6 +104,7 @@ Check out our latest review on modeling cellular dynamics! We explore how scRNA-
     <img src="figures/Review_dyn.png" alt="Logo" height="300">
   </a>
 
+</div>
 
 ## Acknowledgments
 

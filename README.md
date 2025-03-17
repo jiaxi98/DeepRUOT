@@ -98,6 +98,13 @@ Check out our latest review on modeling cellular dynamics! We explore how scRNA-
 [https://arxiv.org/abs/2503.11347](https://arxiv.org/abs/2503.11347)
 
 
+<br />
+<div align="center">
+  <a href="https://github.com/zhenyiizhang/DeepRUOT/">
+    <img src="figures/Review_dyn.png" alt="Logo" height="300">
+  </a>
+
+
 ## Acknowledgments
 
 We thank the following projects for their great work to make our code possible: [MIOFlow](https://github.com/KrishnaswamyLab/MIOFlow/tree/main), [TorchCFM](https://github.com/atong01/conditional-flow-matching). We are also grateful for the exciting work in trajectory inference, which has greatly inspired and influenced our work.

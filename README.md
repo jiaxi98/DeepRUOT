@@ -95,7 +95,7 @@ url={https://openreview.net/forum?id=gQlxd3Mtru}
 
 Check out our latest review on modeling cellular dynamics! We explore how scRNA-seq, spatial transcriptomics, and advanced computational tools like Markov chains & generative models reveal spatiotemporal cell trajectories and fate decisions!
 
-[https://arxiv.org/abs/2503.11347](https://arxiv.org/abs/2503.11347)
+[https://doi.org/10.3390/e27050453](https://doi.org/10.3390/e27050453)
 
 
 <br />

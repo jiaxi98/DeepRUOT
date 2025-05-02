@@ -284,7 +284,7 @@ class ODEFunc3(nn.Module):
         #print(norm_grad_s.shape)
         
         
-        dm_dt = (torch.norm(v, p=2, dim=1).unsqueeze(1) / (2) + 
+        dm_dt = (torch.norm(v, p=2, dim=1).unsqueeze(1) ** 2 / (2) + 
                  (norm_grad_s ** 2) / 2 -
                  (1 / 2 * self.sigma ** 2 *g + s* g) + g ** 2) * w
         #print(dm_dt.shape)

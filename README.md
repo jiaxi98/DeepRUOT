@@ -62,7 +62,7 @@ Please check the [Tutorials](https://deepruot.readthedocs.io/en/latest/index.htm
 The examples can be found in the ```notebook``` directory. Additionally, the model weights required to reproduce the results in the paper can be found in the ```reproduce_model_weights``` directory. Both CUDA-enabled GPU and Mac MPS are supported for computation.
 
 ## Updated
-We plan to release an updated version of DeepRUOT alongside the code for our latest work, CytoBridge, which includes computations on more challenging and complex scRNA datasets (https://arxiv.org/abs/2505.11197). Thank you for the patience.
+We plan to release an updated version of DeepRUOT alongside the code for our latest work, CytoBridge, which includes computations on more challenging and complex scRNA datasets (https://arxiv.org/abs/2505.11197). Thank you for your patience.
 
 
 

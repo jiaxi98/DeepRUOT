@@ -19,7 +19,7 @@
 </div>
 
 ## Updated
-We plan to release an updated version (v2) of DeepRUOT in the next few days, which includes computations on more complex scRNA datasets in our latest work (https://arxiv.org/abs/2505.11197): Mouse Blood Hematopoiesis (50D), Embryoid Body (50D), Pancreatic $\beta$ -cell differentiation (30D) and  A549 EMT (10D). Thank you for your patience.
+We plan to release an improved version (v2) of DeepRUOT in the next few days, which includes computations on more complex scRNA datasets in our latest work (https://arxiv.org/abs/2505.11197): Mouse Blood Hematopoiesis (50D), Embryoid Body (50D), Pancreatic $\beta$ -cell differentiation (30D) and  A549 EMT (10D). Thank you for your patience.
 
 
 ## Introduction

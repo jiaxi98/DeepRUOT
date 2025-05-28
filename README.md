@@ -18,6 +18,10 @@
 
 </div>
 
+## Updated
+We plan to release an updated version (v2) of DeepRUOT in the next few days, which includes computations on more complex scRNA datasets (https://arxiv.org/abs/2505.11197): Mouse Blood Hematopoiesis (50D), Embryoid Body (50D), Pancreatic $\beta$ -cell differentiation (30D) and  A549 EMT (10D). Thank you for your patience.
+
+
 ## Introduction
 Reconstructing dynamics using samples from sparsely time-resolved snapshots is an important problem in both natural sciences and machine learning. Here, we introduce a new deep learning approach for solving regularized unbalanced optimal transport (RUOT) and inferring continuous unbalanced stochastic dynamics from observed snapshots. Based on the RUOT form, our method models these dynamics without requiring prior knowledge of growth and death processes or additional information, allowing them to be learnt directly from data. Theoretically, we explore the connections between the RUOT and Schrödinger bridge problem and discuss the key challenges and potential solutions. The effectiveness of our method is demonstrated with a synthetic gene regulatory network, high-dimensional Gaussian Mixture Model, and single-cell RNA-seq data from blood development. Compared with other methods, our approach accurately identifies growth and transition patterns, eliminates false transitions, and constructs the Waddington developmental landscape.
 
@@ -60,10 +64,6 @@ Please check the [Tutorials](https://deepruot.readthedocs.io/en/latest/index.htm
 - Gaussian Mixture Data (20D)
 
 The examples can be found in the ```notebook``` directory. Additionally, the model weights required to reproduce the results in the paper can be found in the ```reproduce_model_weights``` directory. Both CUDA-enabled GPU and Mac MPS are supported for computation.
-
-## Updated
-We plan to release an updated version of DeepRUOT alongside the code for our latest work, CytoBridge, which includes computations on more challenging and complex scRNA datasets (https://arxiv.org/abs/2505.11197). Thank you for your patience.
-
 
 
 ## Contact information
